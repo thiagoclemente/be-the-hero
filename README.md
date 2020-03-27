@@ -17,7 +17,7 @@ As plicações forma hospedadas no Heroku para a demonstração do funcionamento
 
 Backend da aplicação desenvolvida com Node.
 
-[https://omnistack-11-frontend.herokuapp.com](https://omnistack-11-frontend.herokuapp.com)
+[https://omnistack-11-backend.herokuapp.com](https://omnistack-11-backend.herokuapp.com)
 
 ### Frontend <a name = "frontend"></a>
 
