@@ -15,7 +15,7 @@ As plicações forma hospedadas no Heroku para a demonstração do funcionamento
 
 ## Backend <a name = "backend"></a>
 
-Backend da aplicação desenvolvida com Node.
+Backend da aplicação utilizando Node.
 
 [https://omnistack-11-backend.herokuapp.com](https://omnistack-11-backend.herokuapp.com)
 
