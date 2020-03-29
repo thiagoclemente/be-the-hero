@@ -29,5 +29,5 @@ Frontend da aplicação utilizando ReactJs.
 
 Aplicativo para Android da aplicação utilizando React Native.
 
-[https://play.google.com/store/apps/details?id=dev.thiagoclemente.bethehero](https://play.google.com/store/apps/details?id=dev.thiagoclemente.bethehero)
+[https://expo.io/@thiagoclemente/bethehero](https://expo.io/@thiagoclemente/bethehero)
 
